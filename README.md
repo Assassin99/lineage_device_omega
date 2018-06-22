@@ -20,7 +20,7 @@
 
 
    # Build
-   * repo init -u git://github.com/LineageOS/android.git -b master
+   * repo init -u git://github.com/LineageOS/android.git -b cm-14.1
    * repo sync
    * git clone https://github.com/end222/lineage_device_omega.git -b master device/xiaomi/omega
    * git clone https://github.com/end222/lineage_vendor_omega.git -b master vendor/xiaomi/omega
